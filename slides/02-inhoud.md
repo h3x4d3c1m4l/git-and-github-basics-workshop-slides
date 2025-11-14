@@ -1,18 +1,21 @@
 # Inhoud
 
-- Verschil Git en GitHub
+- Wat zijn Git en GitHub
 - GitHub account en repository aanmaken
-- Hoe werkt Git
-  - Git operaties in GitHub Desktop
+- Hoe werkt Git?
+  - Git-operaties in GitHub Desktop
   - Zelf uitproberen
-- Een goede commit message
 - Wat niet op Git
+- Een goede commit message
 
 ---
 
 # Wat behandelen we vandaag niet
 
-- Branches
-- Rebase
-- Pull requests
-- Issues
+- Functies voor samenwerken
+  - Branches
+  - Rebase
+  - Pull requests
+- Overige functies
+  - Issues
+  - Actions

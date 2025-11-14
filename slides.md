@@ -22,7 +22,7 @@ colorSchema: dark
 ## <lucide-git-branch /> Basics in versiebeheer
 
 ---
-src: slides/01-slechte-voorbeelden.md
+src: slides/01-slecht-voorbeeld.md
 ---
 
 ---
