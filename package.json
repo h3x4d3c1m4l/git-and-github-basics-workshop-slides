@@ -9,15 +9,15 @@
   },
   "dependencies": {
     "@katzumi/slidev-addon-qrcode": "^0.0.17",
-    "@slidev/cli": "^51.3.0",
+    "@slidev/cli": "^52.8.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "slidev-theme-academic": "^2.1.0",
-    "vue": "^3.5.13"
+    "vue": "^3.5.24"
   },
   "devDependencies": {
-    "@iconify-json/lucide": "^1.2.26",
-    "playwright-chromium": "^1.50.1"
+    "@iconify-json/lucide": "^1.2.73",
+    "playwright-chromium": "^1.56.1"
   },
   "slidev": {
     "addons": [
